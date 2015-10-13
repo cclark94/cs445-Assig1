@@ -1,0 +1,62 @@
+CS 0445 Assignment Information Sheet
+ 
+You must electronically submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name:___Christian Clark ___________ Assignment #: ___1__________
+
+Lecture Day and Time: ____Tu/Th 2:30_______________________
+
+Recitation Day and Time: ____F 1:00___________________
+
+Program Due Date: _____1/28/2015__________________
+
+Handed in Date: ____1/28/2015___________________ 
+
+Source code (.java) file name(s):
+
+___Assig1A.java, Card.java, MultiDS.java, PrimQ.java,___________ 
+
+Reorder.java, War.java, WarPlayer.java__________________________
+
+________________________________________________________________
+
+Compiled (.class) file name(s): ___none (as requested, I didn't 
+
+include the compiled files)_____________________________________
+
+________________________________________________________________
+
+Does your program compile without error?: ___Yes__________ 
+
+If not, what is/are the error(s)?:
+
+____N/A_________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: ___Yes__________ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+___N/A__________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+___I included a file called WarPlayer.java that contains a class 
+
+that I use inside War.java._____________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
+ 
